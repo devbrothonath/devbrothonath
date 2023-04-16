@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a web developer who loves frontend development and likes backend development.
+I am a web developer who loves web development and everything about computers.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [devbrotho.work@gmail.com](mailto:devbrotho.work@gmail.com)
