@@ -1,15 +1,16 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi 
 ======================================================================================================================================
 
-I'm a Web Developer
+I'm Devbrotho Nath
 -------------
 
 I am a web developer who loves web development and everything about computers.
 
+* 💻  I make stuff primarily in JavaScript with React
+* 🧠  I'm learning MERN Stack
 * 🌍  I'm based in India
-* ✉️  You can contact me at [devbrotho.work@gmail.com](mailto:devbrotho.work@gmail.com)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on projects
+* ✉️  You can contact me at [devbrotho.work@gmail.com](mailto:devbrotho.work@gmail.com)
 
 ### Skills
 
