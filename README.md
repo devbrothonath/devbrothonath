@@ -4,7 +4,7 @@
 I'm Devbrotho Nath
 -------------
 
-I'm currently on the look out for a role in web development, ideally writing JavaScript.
+I'm currently on the look out for a role in web development, ideally writing JavaScript. If you're hiring, let's talk.
 
 * 💻  I make stuff primarily in JavaScript with React
 * 🧠  I'm learning MERN Stack
